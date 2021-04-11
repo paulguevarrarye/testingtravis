@@ -18,7 +18,7 @@ tasks = [
 
 @app.route('/io', methods=['GET'])
 def get_tasks():
-
+```
     if 1 == 1:
         print('Yes')
     else:
@@ -71,7 +71,7 @@ def get_tasks():
         print('Yes')
         print('Yes')
         print('Yes')
-
+```
     return jsonify({'tasks': tasks})
 
 @app.route('/')
