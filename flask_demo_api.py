@@ -18,7 +18,6 @@ tasks = [
 
 @app.route('/io', methods=['GET'])
 def get_tasks():
-
     return jsonify({'tasks': tasks})
 
 @app.route('/')
