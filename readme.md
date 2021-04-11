@@ -1,2 +1,2 @@
-[![Build Status](https://travis-ci.com/kazi-rys-21/slack-demo.svg?branch=master)](https://travis-ci.com/kazi-rys-21/slack-demo)
-[![codecov](https://codecov.io/gh/kazi-rys-21/slack-demo/branch/master/graph/badge.svg?token=1IH1LWPRJE)](https://codecov.io/gh/kazi-rys-21/slack-demo)
+[![Build Status](https://travis-ci.com/paulguevarrarye/testingtravis.svg?branch=main)](https://travis-ci.com/github/paulguevarrarye/testingtravis)
+[![codecov](https://codecov.io/gh/paulguevarrarye/testingtravis/branch/main/graph/badge.svg?token=EgnC8vzKxV)](https://codecov.io/gh/paulguevarrarye/testingtravis)](https://app.codecov.io/gh/paulguevarrarye/testingtravis)
